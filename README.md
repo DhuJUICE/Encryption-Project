@@ -1,5 +1,6 @@
 # Encryption-Project
  Encryption Program to encrypt and decrypt your private files using Python
+This is a small scale encryption program that me and a small team of students built.
 
  First ensure that python's tkinter is working by trying:
  "import tkinter"
