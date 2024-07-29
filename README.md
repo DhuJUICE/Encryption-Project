@@ -1,5 +1,5 @@
 # Encryption-Project
- Encryption Program to encrypt and decrypt your private files
+ Encryption Program to encrypt and decrypt your private files using Python
 
  First ensure that python's tkinter is working by trying:
  "import tkinter"
